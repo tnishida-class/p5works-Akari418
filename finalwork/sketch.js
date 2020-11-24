@@ -1,6 +1,6 @@
 let n = 10;
 let snows = new Array(100);
-let v = 2.5;
+let v = 1.5;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   for(i = 0; i < snows.length; i++){
